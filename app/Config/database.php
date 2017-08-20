@@ -69,7 +69,7 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => '192.168.56.101',
+		'host' => '182.92.82.188',
 		'login' => 'root',
 		'password' => '123456',
 		'database' => 'cfdb',
