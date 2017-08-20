@@ -69,10 +69,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => '182.92.82.188',
+		'host' => 'localhost',
 		'login' => 'root',
 		'password' => '123456',
-		'database' => 'cfdb',
+		'database' => 'test',
 		'prefix' => '',
 		'encoding' => 'utf8'
 	);
